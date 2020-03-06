@@ -15,10 +15,18 @@ body {
 
 h1 {
     color: black;
-    border: 1px solid ;
+    border: 5px solid ;
+    text-align: center;
     background-color: pink;
 }
 
 a {
     color: hotpink;
+}
+
+h2 {
+    background-color: darkseagreen ;
+    text-align: center;
+    border: 5px solid ;
+    color: black;
 }
