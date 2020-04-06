@@ -1,0 +1,28 @@
+body {
+    padding: 1em;
+    margin: 1em;
+    background: lemonchiffon;
+}
+h1 {
+    margin: 10px;
+    padding: 30px;
+    color: #ffffff;
+    background-color: pink;
+    border: 5px solid black;
+    text-align: center;
+    box-shadow: 2px 2px 5px darkolivegreen;
+    border-radius: 3px;
+}
+
+h2 {
+    color: #ffffff;
+    background-color: darkseagreen;
+    border: 5px solid black;
+    text-align: center;
+    margin: 10px 20px;
+    padding: 10px 20px;
+    box-shadow: 2px 2px 5px black;
+
+    #border: solid 1px black;
+    border-radius: 3px;
+}
